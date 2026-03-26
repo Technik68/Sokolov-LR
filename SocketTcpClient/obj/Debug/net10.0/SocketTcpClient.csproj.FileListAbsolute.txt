@@ -1,0 +1,14 @@
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.exe
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.deps.json
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.runtimeconfig.json
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\bin\Debug\net10.0\SocketTcpClient.pdb
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.AssemblyInfoInputs.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.AssemblyInfo.cs
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.csproj.CoreCompileInputs.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\refint\SocketTcpClient.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.pdb
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\SocketTcpClient.genruntimeconfig.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\SocketTcpClient\obj\Debug\net10.0\ref\SocketTcpClient.dll

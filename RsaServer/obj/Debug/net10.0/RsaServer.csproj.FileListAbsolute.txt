@@ -1,0 +1,14 @@
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\bin\Debug\net10.0\RsaServer.exe
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\bin\Debug\net10.0\RsaServer.deps.json
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\bin\Debug\net10.0\RsaServer.runtimeconfig.json
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\bin\Debug\net10.0\RsaServer.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\bin\Debug\net10.0\RsaServer.pdb
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.AssemblyInfoInputs.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.AssemblyInfo.cs
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.csproj.CoreCompileInputs.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\refint\RsaServer.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.pdb
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\RsaServer.genruntimeconfig.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaServer\obj\Debug\net10.0\ref\RsaServer.dll

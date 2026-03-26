@@ -1,0 +1,14 @@
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\bin\Debug\net10.0\RsaCrypto.exe
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\bin\Debug\net10.0\RsaCrypto.deps.json
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\bin\Debug\net10.0\RsaCrypto.runtimeconfig.json
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\bin\Debug\net10.0\RsaCrypto.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\bin\Debug\net10.0\RsaCrypto.pdb
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.AssemblyInfoInputs.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.AssemblyInfo.cs
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.csproj.CoreCompileInputs.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\refint\RsaCrypto.dll
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.pdb
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\RsaCrypto.genruntimeconfig.cache
+C:\Users\alfer\OneDrive\Desktop\Sokolov LR\RsaCrypto\obj\Debug\net10.0\ref\RsaCrypto.dll
